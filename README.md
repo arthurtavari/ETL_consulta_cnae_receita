@@ -9,13 +9,17 @@ Para executar o script utilizei a IDE do Visual Studio Code, versão 3 do Python
 
 #### Estrutura de pastas e arquivos
     
-data/ 
+    
     database.csv - > Contém os dados das empresas que desejamos buscar. 
+    
     backup_inicial.csv - > Dados de backup.  
+    
     base_tratada.csv - > Base de dados após finalização completa do processo. 
 #    
-consulta_api.py 
-analise_dados.ipynb
+
+    consulta_api.py - > Script em Python que todo o processo de busca na base de dados e API
+
+    analise_dados.ipynb -> Script em Python/Jupyter que faz a análise dos dados em CSV. 
     
     
     
