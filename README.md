@@ -8,9 +8,10 @@ Para este repositório criei uma versão resumida onde ao invés de fazer uma co
 Para executar o script utilizei a IDE do Visual Studio Code, versão 3 do Python e as bibliotecas pandas, http.client, json, time, requests, sys e re.
 
 #### Estrutura:
-Na pasta data/ contém 3 arquivos em csv: 
-
-    *database.csv*
+    Pasta data
+    Contém 3 arquivos em csv para integração com o script
+#
+    database.csv
     Contém os dados das empresas que desejamos buscar. 
 
 #
