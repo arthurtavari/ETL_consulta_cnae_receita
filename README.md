@@ -4,7 +4,7 @@ Participei de um projeto para enriquecimento da base de clientes de um e-commerc
 
 Para este repositório criei uma versão resumida onde ao invés de fazer uma consulta direta no banco de dados, fiz o input da base através de um arquivo csv.
 
-#### Recursos utilizados
+#### Recursos utilizados:
 Para executar o script utilizei a IDE do Visual Studio Code, versão 3 do Python e as bibliotecas pandas, http.client, json, time, requests, sys e re.
 
 #### Base de dados:
@@ -23,7 +23,8 @@ Para executar o script utilizei a IDE do Visual Studio Code, versão 3 do Python
     analise_dados.ipynb -> Script em Python/Jupyter que faz a análise dos dados em CSV. 
     
     
-    
+<i>Toda base que utilizei para consulta são de empresas de capital aberto e informações disponíveis no site da B3</i>
+
     
   
  
