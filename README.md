@@ -10,7 +10,7 @@ Para executar o script utilizei a IDE do Visual Studio Code, versão 3 do Python
 #### Estrutura:
 Na pasta data/ contém 3 arquivos em csv: 
 
-    /database.csv
+    *database.csv*
     Contém os dados das empresas que desejamos buscar. 
 
 #
