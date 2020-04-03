@@ -7,15 +7,16 @@ Para este repositório criei uma versão resumida onde ao invés de fazer uma co
 #### Recursos utilizados
 Para executar o script utilizei a IDE do Visual Studio Code, versão 3 do Python e as bibliotecas pandas, http.client, json, time, requests, sys e re.
 
-#### Estrutura de pastas e arquivos
-    
-    
+#### Base de dados:
+     
     database.csv - > Contém os dados das empresas que desejamos buscar. 
     
     backup_inicial.csv - > Dados de backup.  
     
     base_tratada.csv - > Base de dados após finalização completa do processo. 
 #    
+
+#### Script para execução do processo:
 
     consulta_api.py - > Script em Python que todo o processo de busca na base de dados e API
 
