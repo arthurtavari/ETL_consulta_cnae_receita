@@ -9,30 +9,13 @@ Para executar o script utilizei a IDE do Visual Studio Code, versão 3 do Python
 
 #### Estrutura de pastas e arquivos
     
-    Pasta data
-    Contém 3 arquivos em csv para integração com o script
-#
-    database.csv
-    Contém os dados das empresas que desejamos buscar. 
-
-#
-    
-    backup_inicial.csv
-    Após o script iniciar, ele salva um backup após x consultas, no nosso teste fizemos apenas backup após 5 consultas
-
-#
-
-    base_tratada.csv
-    Após término da consulta o script salva um arquivo final que contém a Razão Social e demais dados de retorno da API.
-
-#
-    consulta_api.py 
-    Arquivo em Python onde contém todo o script de import, funções, variáveis e condicional para consultar os dados do database.csv, 
-    interagir com a API e salvar os dados em um arquivo csv chamado base_tradada. 
-    
-#
-    analise_dados.ipynb
-    Arquivo em Python para leitura no Jupyter onde faz uma breve análise visual da base de dados
+data/ 
+    database.csv - > Contém os dados das empresas que desejamos buscar. 
+    backup_inicial.csv - > Dados de backup.  
+    base_tratada.csv - > Base de dados após finalização completa do processo. 
+#    
+consulta_api.py 
+analise_dados.ipynb
     
     
     
