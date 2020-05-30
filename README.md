@@ -3,7 +3,6 @@
 ### Consulta de Empresas na Receita Federal
 Participei de um projeto para enriquecimento da base de clientes de um e-commerce e precisei desenvolver um script em Python onde ele consulta o banco de dados e retorna o CNPJ das empresas para integração com a API da ReceitaWS.
      <br>
-     <br>
 Para este repositório criei uma versão resumida onde ao invés de fazer uma consulta direta no banco de dados, fiz o input da base através de um arquivo csv.
      <br>
      <br>
