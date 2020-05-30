@@ -8,27 +8,16 @@ Para este repositório criei uma versão resumida onde ao invés de fazer uma co
      <br>
      <br>
 #### Base de dados:
-     
+    
     database.csv - > Contém os dados das empresas que desejamos buscar. 
     
-    backup_inicial.csv - > Dados de backup.  
-    
-    base_tratada.csv - > Base de dados após finalização completa do processo. 
-#    
+    base_tratada.csv - > Base de dados da consulta na Receita Federal já tratada.     
 
 #### Script para execução do processo:
 
-    consulta_api.py - > Script em Python que todo o processo de busca na base de dados e API
+    consulta_api.py - > Script em Python com todo o processo de busca na base de dados e API
 
     analise_dados.ipynb -> Script em Python/Jupyter que faz a análise dos dados em CSV. 
     
     
 <i>Toda base que utilizei para consulta são de empresas de capital aberto e informações disponíveis no site da B3</i>
-
-    
-  
- 
-  
- 
- 
- 
